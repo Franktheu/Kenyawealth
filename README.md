@@ -5,7 +5,7 @@ Getting Started
 To begin using Kenyawealth Investment Advisor, follow these simple steps:
 
 1. Download the application from the releases section.
-2. Sign Up/Login: Create an account or log in to your existing account.
+2. Sign Up/Login: Create an account or log in to your existing account, also set your partyrock username.
 3. Input Information: Provide details about your investment goals,    risk tolerance, and financial preferences.
 4. Receive Recommendations: Once you've provided your information, Kenyawealth Advisor will generate personalized investment recommendations tailored to your needs.
 5. Review and Act: Explore the recommendations provided by Kenyawealth Advisor and decide which investments align best with your financial objectives.
