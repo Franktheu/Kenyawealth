@@ -1,10 +1,10 @@
-Welcome to Personal Investment Advisor! Our application utilizes cutting-edge generative AI technology to provide personalized investment recommendations based on the information you provide. Whether you're a seasoned investor or just starting, Kenyawealth investment advisor is here to help you make informed decisions about your investments.
+Welcome to Kenyawealth Investment Advisor! Our application utilizes cutting-edge generative AI technology to provide personalized investment recommendations based on the information you provide. Whether you're a seasoned investor or just starting, Kenyawealth investment advisor is here to help you make informed decisions about your investments.
 
 Getting Started
 
 To begin using Kenyawealth Investment Advisor, follow these simple steps:
 
-1. Download the application
+1. Download the application on the release section.
 2. Sign Up/Login: Create an account or log in to your existing account.
 3. Input Information: Provide details about your investment goals,    risk tolerance, and financial preferences.
 4. Receive Recommendations: Once you've provided your information, Kenyawealth Advisor will generate personalized investment recommendations tailored to your needs.
