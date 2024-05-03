@@ -18,12 +18,11 @@ To begin using Kenyawealth Investment Advisor, follow these simple steps:
 - Personalized Recommendations: Our algorithms take into account your unique financial situation, goals, and risk tolerance to provide recommendations that suit your needs.
 - Continuous Learning: Kenyawealth's AI continuously learns from user interactions and feedback, improving the accuracy and relevance of its recommendations over time.
 - User-Friendly Interface: Our intuitive interface makes it easy for users to input their information, review recommendations, and take action on investment opportunities.
+![Screenshot_20240503_175215_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/798bfdf3-985b-462f-a463-9dbe2607498f)
+![Screenshot_20240503_175151_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/ededd866-372a-4d27-96d4-0d41e1f20332)
+![IMG-20240503-WA0019](https://github.com/Franktheu/Kenyawealth/assets/92539525/c4d9437d-a79f-4a2c-9aad-b120f27ce28b)
+![Screenshot_20240503_175113_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/38604598-f5db-48b9-ac18-6868488c9761)
 
-#user interface
-![IMG-20240503-WA0019](https://github.com/Franktheu/Kenyawealth/assets/92539525/864d7db0-1d9b-4f0b-abac-db57258b48d7)
-![Screenshot_20240503_175113_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/5d40bcb9-bfba-482e-b0c1-ea61523a04dc)
-![Screenshot_20240503_175215_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/e3bcda07-056a-4627-becc-0fa3e2080455)
-![Screenshot_20240503_175151_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/9095beae-fb51-4d48-96c5-a90194e7e736)
 
 #Security and Privacy
 
