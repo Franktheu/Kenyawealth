@@ -29,6 +29,9 @@ At PartyRock, we take the security and privacy of your personal information seri
 We value your feedback! If you have any questions, suggestions, or encounter any issues while using Kenyawealth Investment Assistant, please don't hesitate to contact our support team. We're here to help you get the most out of our application and improve your investment experience.
 
 
+# User interface
+
+
 
 ![IMG-20240503-WA0019](https://github.com/Franktheu/Kenyawealth/assets/92539525/148a3de2-6b6b-43ce-93bc-c6541c63d981)
 
