@@ -18,7 +18,8 @@ To begin using Kenyawealth Investment Advisor, follow these simple steps:
 - Personalized Recommendations: Our algorithms take into account your unique financial situation, goals, and risk tolerance to provide recommendations that suit your needs.
 - Continuous Learning: Kenyawealth's AI continuously learns from user interactions and feedback, improving the accuracy and relevance of its recommendations over time.
 - User-Friendly Interface: Our intuitive interface makes it easy for users to input their information, review recommendations, and take action on investment opportunities.
-![Screenshot_20240503_175113_Kenyawealth (1)](https://github.com/Franktheu/Kenyawealth/assets/92539525/fb9313ea-7521-4aa2-8ef0-7dcb8a33ad36)
+![Screenshot_20240503_175113_Kenyawealth (2)](https://github.com/Franktheu/Kenyawealth/assets/92539525/e9f70666-7a7e-46b4-960a-1a181222d305)
+
 
 
 
