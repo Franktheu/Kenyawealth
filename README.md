@@ -38,12 +38,20 @@ We value your feedback! If you have any questions, suggestions, or encounter any
 
 
 
+
+
+![Screenshot_20240503_175151_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/3f79f6d7-748c-4424-9324-af5849bc7daf)
+
+
+
+
+
 ![Screenshot_20240503_175215_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/3c71e0b4-c44f-42c9-b980-a5abe225e86f)
 
 
 
 
-![Screenshot_20240503_175151_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/3f79f6d7-748c-4424-9324-af5849bc7daf)
+
 
 
 
