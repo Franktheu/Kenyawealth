@@ -1,6 +1,6 @@
 Welcome to Kenyawealth Investment Advisor! Our application utilizes cutting-edge generative AI technology to provide personalized investment recommendations based on the information you provide. Whether you're a seasoned investor or just starting, Kenyawealth investment advisor is here to help you make informed decisions about your investments.
 
-#Getting Started
+# Getting Started
 
 To begin using Kenyawealth Investment Advisor, follow these simple steps:
 
@@ -12,7 +12,7 @@ To begin using Kenyawealth Investment Advisor, follow these simple steps:
 6. Review and Act: Explore the recommendations provided by Kenyawealth Advisor and decide which investments align best with your financial objectives.
 7. Investment Chat Advisor: After reviewing your recommendations and feel you need more assistance and insights, get to utilize the chat feature.
 
-#Key Features
+# Key Features
 
 - Generative AI Technology: Kenyawealth utilizes advanced generative AI specifically from Amazon Bedrock (Claude model) to analyze your input and generate customized investment suggestions.
 - Personalized Recommendations: Our algorithms take into account your unique financial situation, goals, and risk tolerance to provide recommendations that suit your needs.
@@ -20,7 +20,7 @@ To begin using Kenyawealth Investment Advisor, follow these simple steps:
 - User-Friendly Interface: Our intuitive interface makes it easy for users to input their information, review recommendations, and take action on investment opportunities.
 
 
-#Security and Privacy
+# Security and Privacy
 
 At PartyRock, we take the security and privacy of your personal information seriously. We adhere to industry-standard security practices to safeguard your data and ensure that it is only used to provide investment recommendations. For more information, please refer to our Privacy Policy.
 
