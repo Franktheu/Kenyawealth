@@ -7,9 +7,10 @@ To begin using Kenyawealth Investment Advisor, follow these simple steps:
 1. Download the application from the releases section.
 2. Sign Up/Login: Create an account or log in to your existing account, also set your partyrock username.
 3. Input Information: Provide details about your investment goals,    risk tolerance, and financial preferences.
-4. Receive Recommendations: Once you've provided your information, Kenyawealth Advisor will generate personalized investment recommendations tailored to your needs.
-5. Review and Act: Explore the recommendations provided by Kenyawealth Advisor and decide which investments align best with your financial objectives.
-6. Investment Chat Advisor: After reviewing your recommendations and feel you need more assistance and insights, get to utilize the chat feature.
+4. Play app button: click the play app button to generate your investment recommendations.
+5. Receive Recommendations: Once you've provided your information, Kenyawealth Advisor will generate personalized investment recommendations tailored to your needs.
+6. Review and Act: Explore the recommendations provided by Kenyawealth Advisor and decide which investments align best with your financial objectives.
+7. Investment Chat Advisor: After reviewing your recommendations and feel you need more assistance and insights, get to utilize the chat feature.
 
 Key Features
 
@@ -25,3 +26,7 @@ At PartyRock, we take the security and privacy of your personal information seri
 Feedback and Support
 
 We value your feedback! If you have any questions, suggestions, or encounter any issues while using Kenyawealth Investment Assistant, please don't hesitate to contact our support team. We're here to help you get the most out of our application and improve your investment experience.
+![IMG-20240503-WA![Screenshot_20240503_175113_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/3ddcec43-3ba1-49a3-ad31-863920cf386c)
+0019](https://github.c![Screenshot_20240503_175215_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/4adc08e3-2abb-4af9-90be-7949192d2547)
+om/Franktheu/Kenyawealth/assets/92539525/8d909d4d-69a0-4a49-807c-80f242b546cc)
+![Screenshot_20240503_175151_Kenyawealth](https://github.com/Franktheu/Kenyawealth/assets/92539525/d621c27c-b0cd-4677-a049-89a6fc90921d)
