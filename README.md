@@ -1,5 +1,3 @@
-# Kenyawealth
-
 Welcome to Personal Investment Advisor! Our application utilizes cutting-edge generative AI technology to provide personalized investment recommendations based on the information you provide. Whether you're a seasoned investor or just starting, Kenyawealth investment advisor is here to help you make informed decisions about your investments.
 
 Getting Started
